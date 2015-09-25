@@ -1,0 +1,2 @@
+# weibo_forecast
+2015年天池大数据竞赛-新浪微博互动预测大赛第一赛季baseline
